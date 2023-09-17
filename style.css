@@ -1085,7 +1085,7 @@ button:hover{
     }
 
     .header-1 span {
-        margin-right: 12rem;
+        margin-right: 8rem;
         margin-bottom: 1.5rem;
     }
 
@@ -1155,7 +1155,7 @@ button:hover{
     .header-2 img{
         align-self: center;
         position: relative;
-        /* top: 5rem; */
+        top: 5rem;
         height: 100%;
         width: 90vw;
     }
